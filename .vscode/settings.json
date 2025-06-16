@@ -1,0 +1,12 @@
+{
+	"files.associations": {
+		"stdlib.h": "c",
+		"stdio.h": "c",
+		"pthread.h": "c",
+		"stdint.h": "c",
+		"time.h": "c",
+		"errno.h": "c",
+		"ioctl.h": "c",
+		"string.h": "c"
+	}
+}
